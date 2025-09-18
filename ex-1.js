@@ -10,5 +10,5 @@ console.log(fourthColor);
 let fifthColor = colors[4];
 console.log(fifthColor);
 
-let tenthColor = colors[10];
+let tenthColor = colors[9];
 console.log(tenthColor);

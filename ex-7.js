@@ -42,7 +42,7 @@ let orders = [
 ];
 
 // Start coding here
-let isArray = (Array.isArray(orders));
+let isArray = Array.isArray(orders);
 console.log(isArray);
 
 let creditCardTypeOfBlindermann = (orders[2].creditCardType);
@@ -61,3 +61,6 @@ console.log(totalPurchaseOfDary);
 
 orders.shift();
 console.log(orders);
+
+
+ 
