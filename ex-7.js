@@ -61,3 +61,6 @@ console.log(totalPurchaseOfDary);
 
 orders.shift();
 console.log(orders);
+
+
+ 
